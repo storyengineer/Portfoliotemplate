@@ -2,7 +2,7 @@
 
 Bootstrap built fully responsive landing page/Portfolio website template for small business and developers looking to get ahead on UI/UX design.
 
-MIT License (Description is provided in the download files)
+MIT License 
 
 Live Preview: https://zerotemplatemedia.netlify.app/
 
