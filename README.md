@@ -8,6 +8,6 @@ Live Preview: https://zerotemplatemedia.netlify.app/
 
 Built by Eke Kalu.
 
-Coming Updates: Blog functionality 
-                Portfolio section
-                Working Contact form
+Coming Updates: Blog functionality, 
+                Portfolio section,
+                Working Contact form.
