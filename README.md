@@ -4,7 +4,7 @@ Bootstrap built fully responsive landing page/website template for small busines
 
 MIT License (Description is provided in the download files)
 
-Live Preview: https://unruffled-banach-abe213.netlify.app/ 
+Live Preview: https://zerotemplatemedia.netlify.app/
 
 Coming Updates: Blog functionality 
                 Portfolio section
